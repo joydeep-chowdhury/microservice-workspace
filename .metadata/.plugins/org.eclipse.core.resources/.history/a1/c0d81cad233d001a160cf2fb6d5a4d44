@@ -1,0 +1,12 @@
+package com.sentence.dao;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+@FeignClient
+public interface NounClient 
+     {
+	  @GetMapping("/")
+	  public String getWord();
+     }

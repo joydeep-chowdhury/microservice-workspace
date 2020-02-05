@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="eureka-server-instance3"/>
+<aop-project name="eureka-server-instance1"/>
+<aop-project name="config-server"/>
+<aop-project name="noun"/>
+<aop-project name="application-noun-cold"/>
+<aop-project name="adjective"/>
+<aop-project name="test-client"/>
+<aop-project name="verb"/>
+<aop-project name="eureka-server-instance2"/>
+<aop-project name="subject"/>
+<aop-project name="eureka-server-instance4"/>
+<aop-project name="sentence"/>
+<aop-project name="article"/>
+</aop-reference-model>

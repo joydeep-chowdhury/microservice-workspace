@@ -1,0 +1,5 @@
+package com.sentence.dao;
+
+public interface NounClient {
+
+}

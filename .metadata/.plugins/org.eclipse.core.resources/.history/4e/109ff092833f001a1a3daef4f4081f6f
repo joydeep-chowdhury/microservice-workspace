@@ -1,0 +1,13 @@
+package com.sentence.service;
+
+import com.sentence.domain.Word;
+
+public interface WordService {
+
+	public Word getSubject();
+	public Word getVerb();
+	public Word getArticle();
+	public Word getAdjective();
+	public Word getNoun();
+
+}
